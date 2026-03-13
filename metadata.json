@@ -1,0 +1,5 @@
+{
+  "name": "AI Collaboration Guide Dashboard",
+  "description": "A dashboard guiding users on how to collaborate with AI (VS Code + Copilot) and providing practical Gemini AI tools.",
+  "requestFramePermissions": []
+}
